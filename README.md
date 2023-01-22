@@ -1,7 +1,7 @@
 ## ✨ Alex D'Antonio:
-🔭 I will be working on [tcl-54-smart-shopping-list](github.com/the-collab-lab/tcl-54-smart-shopping-list) until the end of winter!</br>
-🌱 I'm currently strengthening my skills in **Python** and **Flask** while also learning about **AWS**.</br>
-🏺Fun fact I recently started taking wheel throwing classes! 
+🔭 I'm currently using **React** and **Firebase** while working on [tcl-54-smart-shopping-list](github.com/the-collab-lab/tcl-54-smart-shopping-list) as part of [The Collab Lab](https://the-collab-lab.codes/developers/).</br>
+🌱 I'm working to strengthen my skills in **Python** and **Flask** while also learning about **AWS**.</br>
+🏺 Fun fact I recently started taking wheel throwing classes! 
 <!-- 👨‍💻 All of my projects are available at https://alex-andria.github.io/<br>
 📝 I regularly write articles on medium.com/@alexandriadantonio<br> -->
 
@@ -31,4 +31,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alex-andria&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=true"/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-andria&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-andria&theme=ayu-mirage&hide_border=true"/>
+  <p><em>Note: My languages heavily lean towards JavaScript and Ruby due to the large amount of forked learning modules from my previous bootcamp assignments.</em></p>
  </div>
