@@ -1,9 +1,9 @@
 ## ✨ Alex D'Antonio:
-🔭 I’m currently working on [tcl-54-smart-shopping-list](github.com/the-collab-lab/tcl-54-smart-shopping-list)</br>
+🔭 I will be working on [tcl-54-smart-shopping-list](github.com/the-collab-lab/tcl-54-smart-shopping-list) until the end of winter!</br>
+🌱 I'm currently strengthening my skills in **Python** and **Flask** while also learning about **AWS**.</br>
+🏺Fun fact I recently started taking wheel throwing classes! 
 <!-- 👨‍💻 All of my projects are available at https://alex-andria.github.io/<br>
 📝 I regularly write articles on medium.com/@alexandriadantonio<br> -->
-⚡ Fun fact I'm currently taking wheel throwing classes! 🏺
-
 
 ### 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dantonioa)
