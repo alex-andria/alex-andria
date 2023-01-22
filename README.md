@@ -1,4 +1,4 @@
-## ✨ Alex D'Antonio (she/her):
+## ✨ Alex D'Antonio:
 🔭 I’m currently working on [tcl-54-smart-shopping-list](github.com/the-collab-lab/tcl-54-smart-shopping-list)</br>
 <!-- 👨‍💻 All of my projects are available at https://alex-andria.github.io/<br>
 📝 I regularly write articles on medium.com/@alexandriadantonio<br> -->
