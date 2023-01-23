@@ -5,10 +5,16 @@
 <!-- 👨‍💻 All of my projects are available at https://alex-andria.github.io/<br>
 📝 I regularly write articles on medium.com/@alexandriadantonio<br> -->
 
+&nbsp;
+---
+
 ### 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dantonioa)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-andria)
 <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@@alexandriadantonio)  -->
+
+&nbsp;
+---
 
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,6 +31,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 <!-- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
+
+&nbsp;
+---
 
 ### 📊 GitHub Stats:
 <div align="center">
