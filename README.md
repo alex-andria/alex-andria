@@ -1,7 +1,7 @@
 ## ✨ Hi! I'm Alex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 🔭 I'm currently using **React** and **Firebase** while working on [tcl-54-smart-shopping-list](github.com/the-collab-lab/tcl-54-smart-shopping-list) as part of [The Collab Lab](https://the-collab-lab.codes/developers/).</br>
 🌱 I'm working to strengthen my skills in **Python** and **Flask** while also learning about **AWS**.</br>
-🏺 Fun fact I recently started taking wheel throwing classes! 
+🏺 Fun fact I recently started taking wheel throwing pottery classes! 
 <!-- 👨‍💻 All of my projects are available at https://alex-andria.github.io/<br>
 📝 I regularly write articles on medium.com/@alexandriadantonio<br> -->
 
