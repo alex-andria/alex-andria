@@ -38,9 +38,10 @@
 ### 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=alex-andria&style=flat-square&color=lightgray)
 
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alex-andria&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=true"/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-andria&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-andria&theme=ayu-mirage&hide_border=true"/>
   <p><em>Note: My languages heavily lean towards JavaScript and Ruby due to the large amount of forked learning modules from my previous bootcamp assignments.</em></p>
- </div>
+</div>
  
