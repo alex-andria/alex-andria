@@ -12,7 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-andria)
 <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@@alexandriadantonio)  -->
 
-
 &nbsp;
 ---
 
@@ -45,3 +44,4 @@
   <p><em>Note: My languages heavily lean towards JavaScript and Ruby due to the large amount of forked learning modules from my previous bootcamp assignments.</em></p>
 </div>
  
+
